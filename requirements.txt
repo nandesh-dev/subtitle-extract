@@ -1,0 +1,3 @@
+ass==0.5.4
+srt==3.5.3
+ass_tag_parser==2.4.1
